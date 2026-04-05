@@ -28,6 +28,22 @@ God, upon reading the proof, was so convinced that He promptly vanished in a puf
 
 3. **[Who Is This God Person Anyway?](oolon-colluphil/who-is-this-god-person-anyway/README.md)** — The kill shot. The book that actually did the job.
 
+### God's Rebuttal — *Anonymous*
+
+Appeared on Colluphil's desk at 3:47 AM on a Tuesday. Warm to the touch. No author has claimed it. One Author has been ruled out, on account of not existing.
+
+A defense of the creation project by its increasingly flustered architect. Begins with magisterial composure. Ends with a single word in very large letters.
+
+**[God's Rebuttal](anonymous/gods-rebuttal/README.md)** — "I do not normally respond to criticism."
+
+### On the Usefulness of Doors — *Jorge Luis Borges*
+
+Recovered from a second-hand bookshop in Buenos Aires, wedged inside a copy of the Encyclopaedia Britannica, Volume 4 (Cassius to Dodo). Handwritten in violet ink. The pages were unnumbered. The bookshop owner claimed he had never seen it before.
+
+A meditation on thresholds, choices, and the spaces between spaces. Each chapter is shorter than the last, collapsing inward like a series of doors opening onto smaller and smaller rooms, until the final chapter is a single period.
+
+**[On the Usefulness of Doors](jorge-luis-borges/on-the-usefulness-of-doors/README.md)** — "A door is the smallest possible unit of story."
+
 ---
 
 ## A Note on Provenance
